@@ -5,7 +5,7 @@
 
 ## Materials Used
 - IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- Programming Language [Java SE](https://www.oracle.com/sg/java/technologies/downloads/)
+- Programming Language: [Java SE](https://www.oracle.com/sg/java/technologies/downloads/)
 
 ## Additional Features: 
 - Different difficulty levels
