@@ -24,3 +24,5 @@
 
 ## Initial References
 - BSG for SDG. (n.d.). Quiz on SDG 6 "Clean Water and Sanitation". Bharat Soka Gakkai (BSG) for Sustainable Development Goals (SDGs). https://www.bsgforsdg.org/sdg-quiz/quiz-on-sdg-6-clean-water-and-sanitation
+- Martin. (2022). Water and Sanitation - United Nations Sustainable Development. United Nations Sustainable Development. https://www.un.org/sustainabledevelopment/water-and-sanitation/
+- Clean water and sanitation (Statistical Data). The World Bank. (n.d.). https://datatopics.worldbank.org/sdgatlas/archive/2017/SDG-06-clean-water-and-sanitation.html
