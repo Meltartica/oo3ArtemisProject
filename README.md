@@ -9,7 +9,7 @@
 - Theme: GOAL 6 (Clean Water and Sanitation)
 
 ## Materials Used
-- IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- Integrated Development Environment (IDE): [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - Programming Language: [Java SE](https://www.oracle.com/sg/java/technologies/downloads/)
 
 ## Additional Features: 
