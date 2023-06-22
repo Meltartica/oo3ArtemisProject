@@ -25,4 +25,8 @@
 ## Initial References
 - BSG for SDG. (n.d.). Quiz on SDG 6 "Clean Water and Sanitation". Bharat Soka Gakkai (BSG) for Sustainable Development Goals (SDGs). https://www.bsgforsdg.org/sdg-quiz/quiz-on-sdg-6-clean-water-and-sanitation
 - Martin. (2022). Water and Sanitation. United Nations Sustainable Development. https://www.un.org/sustainabledevelopment/water-and-sanitation/
-- Clean water and sanitation (Statistical Data). The World Bank. (n.d.). https://datatopics.worldbank.org/sdgatlas/archive/2017/SDG-06-clean-water-and-sanitation.html
+- The World Bank. (n.d.). Clean water and sanitation (Statistical Data). https://datatopics.worldbank.org/sdgatlas/archive/2017/SDG-06-clean-water-and-sanitation.html
+- Centre for Systems Solutions - CRS (2019). Nexus Game (Games4Sustainability). https://nexus.socialsimulations.org/?_gl=1%2A181wlkm%2A_ga%2AMjAzMDQzMjcxNC4xNjg3NDA5OTk5%2A_ga_2N5PHNFQV0%2AMTY4NzQwOTk5OS4xLjEuMTY4NzQxMjIxMi4wLjAuMA..
+- Centre for Systems Solutions - CRS (2018). P.I.P.E.S.: Public Infrastructure Participatory Engagement Simulation (Games4Sustainability). https://pipes.socialsimulations.org/
+- Centre for Systems Solutions - CRS (2018). Flood Resilience Game (Games4Sustainability). https://floodresilience.socialsimulations.org/?_gl=1%2A1kzcan%2A_ga%2AMjAzMDQzMjcxNC4xNjg3NDA5OTk5%2A_ga_2N5PHNFQV0%2AMTY4NzQwOTk5OS4xLjEuMTY4NzQxMjAzMi4wLjAuMA..
+- Rotary Service and Engagement (2018). 5 ways to improve water quality and access to water. https://rotaryserviceblog.org/2018/03/02/5-ways-to-improve-water-quality-and-access-to-water/
