@@ -22,5 +22,5 @@
 - Incorporate real-world data and statistics to emphasize the global water crisis and the impact of individual actions
 - Educational quizzes or trivia questions about water-related facts and statistics to further enhance players' knowledge on the subject
 
-## References
+## Initial References
 - BSG for SDG. (n.d.). Quiz on SDG 6 "Clean Water and Sanitation". Bharat Soka Gakkai (BSG) for Sustainable Development Goals (SDGs). https://www.bsgforsdg.org/sdg-quiz/quiz-on-sdg-6-clean-water-and-sanitation
