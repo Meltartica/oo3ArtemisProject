@@ -6,7 +6,7 @@
 ## Details
 - Members: Sy, Tabanao, Tiu
 - Section: EQ5
-- Theme: GOAL 6 (Clean Water and Sanitation)
+- Theme: [GOAL 6 (Clean Water and Sanitation)](https://www.un.org/sustainabledevelopment/water-and-sanitation/)
 
 ## Materials Used
 - Integrated Development Environment (IDE): [IntelliJ IDEA](https://www.jetbrains.com/idea/)
