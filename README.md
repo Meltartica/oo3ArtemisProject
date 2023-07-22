@@ -5,6 +5,7 @@
 
 ## Details
 - Members: Sy, Tabanao, Tiu
+- Leader: Win Sy
 - Section: EQ5
 - Theme: [GOAL 6 (Clean Water and Sanitation)](https://www.un.org/sustainabledevelopment/water-and-sanitation/)
 
