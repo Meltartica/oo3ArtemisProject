@@ -12,6 +12,7 @@
 ## Materials Used
 - Integrated Development Environment (IDE): [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - Programming Language: [Java SE](https://www.oracle.com/sg/java/technologies/downloads/)
+- Libraries Used: [JavaFX](https://openjfx.io/)
 
 ## Additional Features: 
 - Different difficulty levels
